@@ -5,7 +5,7 @@ Controls mpd through mpc
 
 
 ## Examples
-* "Play the song"
+* "Play Never gonna give you up"
 * "Stop the music"
 * "Play music"
 * "Next song"
@@ -18,4 +18,3 @@ Github @noahares
 **Media**
 
 ## Tags
-
